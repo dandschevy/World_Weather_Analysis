@@ -1,6 +1,6 @@
 # World Weather Analysis
 
-##Purpose and Description
+## Purpose and Description
 The purpose of the Module 6 Challege assignment was to create three separate deliverables:
   1.  Retrieve weather data
   2.  Create a customer travel destination map
